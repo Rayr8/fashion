@@ -15,6 +15,7 @@ Table of Contents
 * Contact
 
 GENERAL INFORMATION
+
 Chic Boutique is a basic website to familiarise and practice intermediate HTML, CSS and basic JavaScript. 
 This website code was written using Virtual Studio Code.
 
