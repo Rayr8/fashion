@@ -39,7 +39,7 @@ SCREENSHOT
 
 LIVE DEMO
 
-[Live Demo](https://rawcdn.githack.com/Rayr8/fashion/a1bf529b25de0c6e07ca0b84f2e779c3a14a3f3d/index.html)
+[Live Demo](https://raw.githack.com/Rayr8/fashion/master/index.html)
 
 SETUP
 
