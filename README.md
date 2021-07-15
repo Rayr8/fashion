@@ -34,6 +34,10 @@ SCREENSHOT
 
 ![fashion screenshot](images/welcome.jpg)
 
+LIVE DEMO
+
+[Live Demo] (https://rayr8.github.io/fashion/)
+
 SETUP
 
 Getting Started
