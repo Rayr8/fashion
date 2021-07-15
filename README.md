@@ -20,8 +20,11 @@ Chic Boutique is a basic website to familiarise and practice intermediate HTML, 
 This website code was written using Virtual Studio Code.
 
 LANGUAGES USED
-*HTML
+
+*HTML 
+
 *CSS
+
 *JavaScript
 
 FEATURES
@@ -36,7 +39,7 @@ SCREENSHOT
 
 LIVE DEMO
 
-[Live Demo] (https://rawcdn.githack.com/Rayr8/fashion/a1bf529b25de0c6e07ca0b84f2e779c3a14a3f3d/index.html)
+[Live Demo](https://rawcdn.githack.com/Rayr8/fashion/a1bf529b25de0c6e07ca0b84f2e779c3a14a3f3d/index.html)
 
 SETUP
 
@@ -92,11 +95,11 @@ AUTHOR
 
 ACKNOWLEDGEMENTS
 
-Girlcode
+*Girlcode
 
-Rumbie Mudzie
+*Rumbie Mudzie
 
-W3schools
+*W3schools
 
 
 
