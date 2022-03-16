@@ -40,19 +40,17 @@ All the features below were created with HTML and CSS:
 ## SCREENSHOTS
 
 ![fashion screenshot1](images/index1.png)
-![fashion screenshot2](images/index2.png) 
 ![fashion screenshot3](images/index3.png)
 ![fashion screenshot4](images/about1.png)
 ![fashion screenshot5](images/about2.png)
 ![fashion screenshot6](images/about3.png)
-![fashion screenshot7](images/collections3.png)
+![fashion screenshot7](images/collections1.png)
 ![fashion screenshot8](images/collections2.png)
 ![fashion screenshot9](images/collections3.png)
 ![fashion screenshot10](images/collections4.png)
 ![fashion screenshot11](images/coming1.png)
 ![fashion screenshot12](images/coming2.png)
 ![fashion screenshot13](images/contact1.png)
-![fashion screenshot14](images/contact2.png)
 ![fashion screenshot15](images/contact3.png)
 
 
