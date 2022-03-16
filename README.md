@@ -40,12 +40,11 @@ All the features below were created with HTML and CSS:
 ## SCREENSHOTS
 
 ![fashion screenshot1](images/index1.png)
+![fashion screenshot1](images/index2.png)
 ![fashion screenshot3](images/index3.png)
 ![fashion screenshot4](images/about1.png)
 ![fashion screenshot5](images/about2.png)
-![fashion screenshot6](images/about3.png)
 ![fashion screenshot7](images/collections1.png)
-![fashion screenshot8](images/collections2.png)
 ![fashion screenshot9](images/collections3.png)
 ![fashion screenshot10](images/collections4.png)
 ![fashion screenshot11](images/coming1.png)
