@@ -56,7 +56,7 @@ All the features below were created with HTML and CSS:
 
 ## LIVE DEMO
 
-[Live Demo Link](https://raw.githack.com/Rayr8/fashion/main/index.html)
+[Live Demo Link](https://raw.githack.com/Rayr8/fashion/master/index.html)
 
 ## SETUP
 
